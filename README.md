@@ -1,3 +1,6 @@
+You can view the full project presentation here:  
+[**Google DA Capstone Case Study_COMP.pdf**](./Google%20DA%20Capstone%20Case%20Study_COMP.pdf)
+
 Title: E-commerce Sales Analysis
 
 Objective: To analyze sales data and identify trends, insights, and opportunities.
