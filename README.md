@@ -17,3 +17,20 @@ R Programming: Advanced analysis, handling outliers, calculating total sales per
 Results: UK is the primary driver of sales.
 
 Conclusion: Focus on marketing in the UK for growth.
+
+## Tableau Visualizations
+1. **Top 10 Countries by Total Sales**  
+![Sales Trends](./Visualizations/Country_SLS.png)
+
+![Top Countries](./Visualizations/WHERE_SLS_COMING2.png)
+
+### SQL Script
+
+You can view the full SQL script used for the analysis here:  
+[**ecommerce_sales_analysis.sql**](./ecommerce_sales_analysis.sql)
+
+### R Script
+
+You can view the R script used for further analysis and visualizations here:  
+[**ecommerce_sales_analysis.R**](./ecommerce_sales_analysis.R)
+
